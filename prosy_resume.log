@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.25)  25 APR 2025 22:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.25)  27 APR 2025 15:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -300,28 +300,28 @@ Package hyperref Info: Link coloring OFF on input line 14.
 \openout3 = `prosy_resume.out'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 30--31
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
 
  []
 
 
-Overfull \hbox (1.57417pt too wide) in paragraph at lines 35--36
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+
+ []
+
+
+Overfull \hbox (1.57417pt too wide) in paragraph at lines 48--49
 []\OT1/cmr/bx/n/10 Technical En-vi-ron-ment: \OT1/cmr/m/n/10 Next.js, Re-act.js
 , Node.js, REST-ful APIs, Tail-wind CSS, Shopify API, Check-outChamp
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 40--41
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 50--51
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 60--61
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
 
  []
 
@@ -330,7 +330,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 60--61
 [1
 
 {C:/Users/Prosy/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-(prosy_resume.aux)
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+
+ []
+
+
+
+[2] (prosy_resume.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-03-26>
@@ -339,21 +345,21 @@ Package rerunfilecheck Info: File `prosy_resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9071 strings out of 469959
- 144141 string characters out of 5469834
- 553923 words of memory out of 5000000
+ 9072 strings out of 469959
+ 144147 string characters out of 5469834
+ 552923 words of memory out of 5000000
  35806 multiletter control sequences out of 15000+600000
  628074 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,1203b,436s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,1203b,542s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Prosy\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1000.pk><C:/Users/Prosy/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmbx10.pfb><C:/Users/Prosy/AppData/Local/Programs/MiKTeX/fonts/type1/publ
 ic/amsfonts/cm/cmbx12.pfb><C:/Users/Prosy/AppData/Local/Programs/MiKTeX/fonts/t
 ype1/public/amsfonts/cm/cmr10.pfb>
-Output written on prosy_resume.pdf (1 page, 59988 bytes).
+Output written on prosy_resume.pdf (2 pages, 62076 bytes).
 PDF statistics:
- 32 PDF objects out of 1000 (max. 8388607)
- 2 named destinations out of 1000 (max. 500000)
+ 36 PDF objects out of 1000 (max. 8388607)
+ 3 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
