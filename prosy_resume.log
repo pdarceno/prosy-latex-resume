@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.25)  29 MAY 2025 20:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.25)  5 JUN 2025 20:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -310,18 +310,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--43
  []
 
 
-Overfull \hbox (1.57417pt too wide) in paragraph at lines 48--49
-[]\OT1/cmr/bx/n/10 Technical En-vi-ron-ment: \OT1/cmr/m/n/10 Re-act.js, Next.js
-, Node.js, REST-ful APIs, Tail-wind CSS, Shopify API, Check-outChamp
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 53--54
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--65
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
 
  []
 
@@ -330,7 +324,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 64--65
 [1
 
 {C:/Users/Prosy/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 75--76
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
 
  []
 
@@ -351,13 +345,13 @@ Here is how much of TeX's memory you used:
  35806 multiletter control sequences out of 15000+600000
  628074 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,1203b,542s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,1203b,544s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Prosy\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1000.pk><C:/Users/Prosy/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmbx10.pfb><C:/Users/Prosy/AppData/Local/Programs/MiKTeX/fonts/type1/publ
 ic/amsfonts/cm/cmbx12.pfb><C:/Users/Prosy/AppData/Local/Programs/MiKTeX/fonts/t
 ype1/public/amsfonts/cm/cmr10.pfb>
-Output written on prosy_resume.pdf (2 pages, 62041 bytes).
+Output written on prosy_resume.pdf (2 pages, 62317 bytes).
 PDF statistics:
  36 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
